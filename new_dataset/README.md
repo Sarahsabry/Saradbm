@@ -53,7 +53,7 @@ Some reports are in French or Arabic when that is the only version the bank publ
 Notes:
 - UBCI 2023–2025 are the versions filed with Tunisia's market regulator (CMF); the 2024 one is marked "provisoire".
 - CIH Bank 2022 and BFPME 2022–2023 are scanned (image-only) PDFs.
-- Three files over GitHub's size limit were compressed with Ghostscript (Ajman Bank 2023, NBQ 2025, and others over 90 MB).
+- Two files were too large for GitHub and were compressed with Ghostscript: Ajman Bank 2023 and NBQ 2025.
 
 ## Not found / not available
 - **Saudi Arabia:** every listed Saudi bank is already in the original sample. Gulf International Bank Saudi Arabia's
