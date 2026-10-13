@@ -1,6 +1,6 @@
 # Expanded bank sample: annual reports 2020–2025
 
-121 annual reports for 38 banks that are **not** in the original 101-bank sample.
+176 annual reports for 42 banks that are **not** in the original 101-bank sample.
 The files are in `reports/<Country>/` and named `Country_BankName_Year.pdf`, where the year is the
 financial year the report covers. FY2026 reports are not published yet.
 `sources.csv` lists the URL each file was downloaded from.
@@ -16,39 +16,46 @@ Some reports are in French or Arabic when that is the only version the bank publ
 |---|---|---|
 | Algeria | BNP Paribas El Djazair | 2021, 2022, 2023, 2024 |
 | Algeria | Trust Bank Algeria | 2021 |
-| Bahrain | Bahrain Development Bank | 2020–2025 |
-| Bahrain | Eskan Bank | 2020–2025 |
-| Bahrain | GFH Financial Group | 2020–2025 |
-| Bahrain | United Gulf Bank | 2020–2025 |
+| Bahrain | Al Baraka Islamic Bank (Bahrain) | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Bahrain | Alubaf Arab International Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Bahrain | Bahrain Development Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Bahrain | Eskan Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Bahrain | GFH Financial Group | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Bahrain | SICO | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Bahrain | United Gulf Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
 | Egypt | Al Baraka Bank Egypt | 2020, 2022 |
+| Egypt | Bank ABC Egypt | 2020 |
 | Egypt | Bank of Alexandria | 2021 |
-| Jordan | Bank al Etihad | 2020–2025 |
-| Jordan | Bank of Jordan | 2024 |
-| Jordan | Invest Bank (Jordan) | 2024 |
-| Jordan | Jordan Commercial Bank | 2023, 2024 |
-| Kuwait | Industrial Bank of Kuwait | 2020–2024 |
-| Morocco | CDG Capital | 2020–2025 |
-| Morocco | CIH Bank | 2020–2025 |
-| Oman | Oman Housing Bank | 2020–2024 |
-| Qatar | Lesha Bank (formerly Qatar First Bank) | 2021–2025 |
+| Jordan | Bank ABC Jordan | 2021, 2023 |
+| Jordan | Bank al Etihad | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Jordan | Bank of Jordan | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Jordan | Invest Bank (Jordan) | 2021, 2023, 2024 |
+| Jordan | Jordan Commercial Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Kuwait | Industrial Bank of Kuwait | 2020, 2021, 2022, 2023, 2024 |
+| Morocco | CDG Capital | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Morocco | CIH Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Oman | Oman Housing Bank | 2020, 2021, 2022, 2023, 2024 |
+| Qatar | Lesha Bank (formerly Qatar First Bank) | 2021, 2022, 2023, 2024, 2025 |
 | Qatar | Qatar Development Bank | 2023, 2024 |
-| Tunisia | Al Baraka Bank Tunisia | 2024 |
+| Tunisia | Bank ABC Tunisie | 2020, 2021, 2023, 2024 |
+| Tunisia | Al Baraka Bank Tunisia | 2020, 2024 |
 | Tunisia | BFPME | 2022, 2023 |
-| Tunisia | BTK Bank | 2023, 2024 |
-| Tunisia | Banque de Tunisie et des Emirats (BTE) | 2020–2025 |
-| Tunisia | Banque Tunisienne de Solidarité (BTS) | 2020, 2022, 2023, 2024 |
+| Tunisia | BTK Bank | 2021, 2022, 2023, 2024 |
+| Tunisia | Banque de Tunisie et des Emirats (BTE) | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Tunisia | Banque Tunisienne de Solidarité (BTS) | 2020, 2021, 2022, 2023, 2024 |
 | Tunisia | Banque Tuniso-Libyenne (BTL) | 2020 |
-| Tunisia | QNB Tunis | 2023, 2024, 2025 |
+| Tunisia | QNB Tunis | 2021, 2022, 2023, 2024, 2025 |
 | Tunisia | Tunisian Saudi Bank (TSB) | 2023, 2024 |
-| Tunisia | UBCI | 2021–2025 |
-| Tunisia | Wifak International Bank | 2020, 2021, 2023, 2024, 2025 |
-| UAE | Ajman Bank | 2022–2025 |
-| UAE | Al Masraf | 2020–2025 |
-| UAE | Bank of Sharjah | 2021, 2022 |
-| UAE | Commercial Bank International (CBI) | 2021, 2023, 2024, 2025 |
-| UAE | Emirates Investment Bank | 2023 |
+| Tunisia | UBCI | 2020, 2021, 2022, 2023, 2024, 2025 |
+| Tunisia | Wifak International Bank | 2020, 2021, 2022, 2023, 2024, 2025 |
+| UAE | Ajman Bank | 2022, 2023, 2024, 2025 |
+| UAE | Al Masraf | 2020, 2021, 2022, 2023, 2024, 2025 |
+| UAE | Bank of Sharjah | 2020, 2021, 2022, 2023, 2024 |
+| UAE | Commercial Bank International (CBI) | 2021, 2022, 2023, 2024, 2025 |
+| UAE | Emirates Investment Bank | 2023, 2024, 2025 |
+| UAE | Invest Bank (UAE) | 2023, 2024, 2025 |
 | UAE | National Bank of Umm Al Qaiwain (NBQ) | 2025 |
-| UAE | United Arab Bank (UAB) | 2024 |
+| UAE | United Arab Bank (UAB) | 2022, 2023, 2024 |
 
 Notes:
 - UBCI 2023–2025 are the versions filed with Tunisia's market regulator (CMF); the 2024 one is marked "provisoire".
